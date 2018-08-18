@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Goku",
+      "image": "https://pngriver.com/wp-content/uploads/2018/03/Download-Dragon-Ball-Goku-PNG-Free-Download-For-Designing-Projects-1000x1440.png"
+    },
+    {
+      "id": 2,
+      "name": "Gohan",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Gohan_Lithograph.PNG/250px-Gohan_Lithograph.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Goten",
+      "image": "https://vignette.wikia.nocookie.net/ultradragonball/images/5/57/DBZ_goten.png/revision/latest?cb=20110430220059"
+    },
+    {
+      "id": 4,
+      "name": "Trunks",
+      "image": "https://statici.behindthevoiceactors.com/behindthevoiceactors/_img/chars/trunks-dragon-ball-z-broly-second-coming-67.6.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Raditz",
+      "image": "https://vignette.wikia.nocookie.net/ultradragonball/images/4/4c/158396-167455-raditz_super.jpg/revision/latest?cb=20110401222557"
+    },
+    {
+      "id": 6,
+      "name": "Vegeta",
+      "image": "https://myanimelist.cdn-dena.com/images/characters/14/86185.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Nappa",
+      "image": "https://vignette.wikia.nocookie.net/teamfourstar/images/c/c1/Nappa.png/revision/latest?cb=20100603054541"
+    },
+    {
+      "id": 8,
+      "name": "Broly",
+      "image": "https://vignette.wikia.nocookie.net/vsbattles/images/7/78/Fighterz_LSSBroly.png/revision/latest?cb=20180303144930"
+    },
+    {
+      "id": 9,
+      "name": "Bardock",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/0/0c/EOB_12.jpg/revision/latest?cb=20150801231244"
+    },
+    {
+      "id": 10,
+      "name": "Pan",
+      "image": "https://vignette.wikia.nocookie.net/dragonball/images/d/d4/Dbgt11-03.png/revision/latest?cb=20160102210141"
+    },
+    {
+      "id": 11,
+      "name": "King Vegeta",
+      "image": "https://static.giantbomb.com/uploads/original/8/84561/1554528-king_vegeta.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Future Trunks",
+      "image": "https://pm1.narvii.com/6383/a4b03a652155d05878169061efd95a1896bdf6b9_hq.jpg"
+    }
+  ]

@@ -1,0 +1,9 @@
+nav {
+    text-align: right;
+    color: orange;
+    position: fixed;
+    top: 20px;
+}
+.container {
+    padding-bottom: 25px;
+}
